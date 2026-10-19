@@ -1,0 +1,22 @@
+{
+  "wheel_id": 442,
+  "structure": "umbrella",
+  "slug": "retainingwallpros-102",
+  "project": "retaining-wall-quotes-brisbane-red-flags-8e88d58da75b7c51490da2",
+  "parent_t1_ref": "retainingwallpros-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallpros.com.au",
+  "primary_kw": "retaining wall quotes brisbane red flags",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-quotes-brisbane-red-flags-8e88d58da75b7c51490da2/",
+  "tier": "T2",
+  "writeback_nonce": "d9e01180a2ed006e",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallpros-150/",
+      "anchor": "Retaining Wall Quotes Brisbane What to Expect: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
